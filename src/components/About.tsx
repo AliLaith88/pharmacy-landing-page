@@ -28,7 +28,7 @@ export default function About() {
         <div className="text-center mb-16">
           <h2 className="text-3xl font-bold text-gray-800 mb-4">About Us</h2>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            At [Pharmacy Name], we are more than just a pharmacy. We are your
+            At Shams Pharmacy, we are more than just a pharmacy. We are your
             trusted partner in health, committed to providing personalized care,
             expert advice, and innovative solutions to meet your unique
             healthcare needs.
